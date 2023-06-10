@@ -9,7 +9,7 @@ body{
 .background{
     height:100%;
     width:100%;
-    background: radial-gradient(circle, #1b0944, #000000);
+    background: radial-gradient(circle, #544a6c, #000000);
     box-shadow: #000000;
     position:absolute;
     left: 50%;
